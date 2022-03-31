@@ -1,0 +1,1 @@
+clang -std=c17 -Wall -Wextra -Isrc src/hgl_str.c examples/demo.c -o build/demo
