@@ -17,4 +17,9 @@ typedef struct {
 bool
 hgl_str_valid(hgl_str str);
 
+bool
+hgl_str_equal(hgl_str a, hgl_str b);
+
+
+
 #endif
